@@ -1,0 +1,54 @@
+/*full elements*/
+body {
+    background-color: #53b2ff;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+header{
+    margin-bottom: 15px;
+}
+section {
+    margin: auto;
+    text-align: center;
+    width: 1350pe;
+}
+div {
+    margin: auto;
+}
+input {
+    border-radius: 5px;
+    border: none;
+    height: 50px;
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+/*ID elements*/
+#gifName {
+    width: 500px;
+
+}
+img {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+#out {
+    width: 1350pe;
+    margin-top: 50px;
+    display: flex;
+    flex-flow: row wrap;
+}
+#gif {
+    background-color: white;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 5px;
+    margin-left: 2pe;
+}
